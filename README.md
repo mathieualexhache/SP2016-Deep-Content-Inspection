@@ -73,7 +73,7 @@ A comprehensive PowerShell-based toolkit for scanning and auditing documents sto
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/your-org/sharepoint-security-scanner-suite.git
-cd sharepoint-security-scanner-suite
+cd SP2016-Deep-Content-Inspection
 ```
 ## References
 
